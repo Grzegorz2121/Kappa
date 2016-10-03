@@ -1,13 +1,11 @@
 {
     "context": "server",
-    "identifier": "com.pa.false-economy",
-    "display_name": "False Economy",
-    "description": "The world's most unethical mod",
-    "author": "flubb",
+    "identifier": "com.grzegorz.kappa",
+    "display_name": "Kappa mod",
+    "description": "Better balanced than true lobs",
+    "author": "Grzegorz2121",
     "authors": [
-        "flubb",
-        "Qzipco"
-    ],
+        "Grzegorz2121"   ],
     "version": "1.0",
     "build": "94684",
     "date": "2016-07-12",
@@ -15,7 +13,7 @@
     "forum": "",
     "priority": "98",
     "url": "https://github.com/Grzegorz2121/Kappa/archive/master.zip",
-    "download": "https://github.com/Grzegorz2121/Kappa/raw/master/archive/com.grzegorz.kappa.zip",
+    "download": "https://github.com/Grzegorz2121/Kappa/raw/master/com.grzegorz.kappa.zip",
     "unitList": false,
     "fileSystem": false,
     "searchable": [
@@ -25,10 +23,8 @@
         "classic",
         "titans",
         "gameplay",
-        "flubb",
-        "qzipco"
-    ],
-    "sort": "false economy",
+        "Grzegorz2121"   ],
+    "sort": "kappa",
     "icon": "",
     "timestamp": 1468281600000,
     "dependencies": [],
