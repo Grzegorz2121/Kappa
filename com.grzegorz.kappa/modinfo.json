@@ -1,24 +1,40 @@
 {
-  "author": "Grzegorz2121",
-  "build": "94684",
-  "category": [
-    "units",
-    "balance",
-    "titans"
-  ],
-  "companions": [
-    ""
-  ],
-  "context": "server",
-  "date": "2016/9/01",
-  "dependencies": [
-    ""
-  ],
-  "description": "More balanced than True lobs",
-  "display_name": "Kappa mod",
-  "enabled": true,
-  "identifier": "com.grzegorz.kappa",
-  "priority": 95,
-  "signature": "(not yet implemented)",
-  "version": "0.1"
+    "author": "Grzegorz2121",
+    "build": "94684",
+    "context": "server",
+    "date": "2016-09-01",
+    "dependencies": [
+        ""
+    ],
+    "description": "Better than true lobs",
+    "display_name": "Kappa mod",
+    "enabled": true,
+    "hidden": true,
+    "identifier": "com.grzegorz.kappa",
+    "priority": 95,
+    "signature": "(not yet implemented)",
+    "version": "0.1",
+    "url": "https://github.com/Grzegorz2121/Kappa/archive/com.grzegorz.kappa.zip",
+    "download": "https://cdn.palobby.com/community-mods/downloads/com.grzegorz.kappa.zip",
+    "unitList": false,
+    "fileSystem": false,
+    "searchable": [
+        "planetary",
+    ],
+    "sort": "planetary",
+    "authors": [
+        "Grzegorz2121"
+    ],
+    "forum": "",
+    "icon": "",
+    "timestamp": 1472688000000,
+    "companions": [],
+    "scenes": {},
+    "framework": false,
+    "available": true,
+    "titansOnly": false,
+    "classicOnly": false,
+    "classic": false,
+    "titans": false,
+    "conflicts": {}
 }
