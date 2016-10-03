@@ -1,7 +1,7 @@
 {
 	"base_spec" : "/pa/ammo/base_bomb/base_bomb.json",
-	"damage" : 5000,
-	"splash_damage" : 5000,
+	"damage" : 50,
+	"splash_damage" : 50,
 	"splash_radius" : 20,
 	"full_damage_splash_radius" : 5,
 	"splash_damages_allies" : false,
@@ -30,5 +30,5 @@
 			"effect_spec" : "/pa/units/air/bomber_heavy/bomber_heavy_attack.pfx"
 		}
 	}
-	"spawn_unit_on_death" : "/pa/units/land/assault_bot/assault_bot_adv.json"
+	"spawn_unit_on_death" : "/pa/units/land/assault_bot_adv/assault_bot_adv.json"
 }
