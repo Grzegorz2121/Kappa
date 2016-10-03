@@ -1,0 +1,24 @@
+{
+  "author": "Grzegorz2121",
+  "build": "94684",
+  "category": [
+    "units",
+    "balance",
+    "titans"
+  ],
+  "companions": [
+    ""
+  ],
+  "context": "server",
+  "date": "2016/9/01",
+  "dependencies": [
+    ""
+  ],
+  "description": "More balanced than True lobs",
+  "display_name": "Kappa mod",
+  "enabled": true,
+  "identifier": "com.grzegorz.kappa",
+  "priority": 95,
+  "signature": "(not yet implemented)",
+  "version": "0.1"
+}
