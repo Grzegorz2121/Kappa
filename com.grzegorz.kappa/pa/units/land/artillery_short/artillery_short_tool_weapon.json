@@ -1,28 +1,30 @@
+
 {
 	"base_spec" : "/pa/tools/base_artillery_turret/base_artillery_turret.json",
 	"ammo_id" : "/pa/units/land/artillery_short/artillery_short_ammo.json",
 	"rate_of_fire" : 5,
-	"max_firing_velocity" : 150,
-	"min_firing_velocity" : 100,
+	"max_firing_velocity" : 160,
+	"min_firing_velocity" : 150,
 	"ammo_source" : "energy",
-	"ammo_capacity" : 1000,
-	"ammo_demand" : 100,
-	"ammo_per_shot" : 100,
-	"max_range" : 300,
-	"yaw_rate" : 30,
-	"pitch_rate" : 30,
+	"ammo_capacity" : 3600,
+	"ammo_demand" : 360,
+	"ammo_per_shot" : 600,
+	"max_range" : 275,
+	"yaw_rate" : 15,
+	"pitch_rate" : 15,
 	"yaw_range" : 180,
 	"pitch_range" : 89.9,
 	"firing_arc_yaw" : 0,
 	"firing_arc_pitch" : 5,
 	"auto_attack" : true,
-	"firing_standard_deviation" : 3,
+	"firing_standard_deviation" : 4,
 	"carpet_fire" : true,
 	"carpet_wait_for_full_ammo" : true,
 	"physics" : {
 		"radius" : 1,
+		"push_class" : 1,
 		"gravity_scalar" : 1,
-		"add_to_spatial_db" : false
+		"add_to_spatial_db" : true
 	},
 	"target_layers" : ["WL_LandHorizontal", "WL_Seafloor", "WL_WaterSurface", "WL_Underwater"]
 }
