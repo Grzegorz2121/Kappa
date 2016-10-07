@@ -17,7 +17,7 @@
 	"firing_arc_yaw" : 0,
 	"firing_arc_pitch" : 5,
 	"auto_attack" : true,
-	"firing_standard_deviation" : 4,
+	"firing_standard_deviation" : 1.5,
 	"carpet_fire" : true,
 	"carpet_wait_for_full_ammo" : true,
 	"physics" : {
