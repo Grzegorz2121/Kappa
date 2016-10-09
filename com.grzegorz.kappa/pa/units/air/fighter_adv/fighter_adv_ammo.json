@@ -3,7 +3,7 @@
   "damage": 250,
   "events": {
     "died": {
-      "effect_spec": "/pa/effects/specs/ping.pfx",
+      "effect_spec": "/pa/effects/specs/ping.pfx"
     }
   },
   "full_damage_splash_radius": 5,
