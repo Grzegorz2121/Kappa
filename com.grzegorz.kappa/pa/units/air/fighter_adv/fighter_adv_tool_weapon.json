@@ -5,10 +5,9 @@
   "firing_arc_pitch": 45,
   "firing_arc_yaw": 45,
   "max_range": 120,
-  "rate_of_fire": 10,
+  "rate_of_fire": 3,
   "spread_fire": true,
   "target_layers": [
-    "WL_Air",
-    "WL_AnyHorizontalGroundOrWaterSurface"
+    "WL_Air"
   ]
 }
