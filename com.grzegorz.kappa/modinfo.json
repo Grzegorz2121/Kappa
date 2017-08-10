@@ -12,7 +12,7 @@
   "date": "2016-07-12",
   "dependencies": [],
   "description": "Better balanced than true lobs",
-  "display_name": "Kappa mod",
+  "display_name": "Kappa mod RETURN",
   "download": "https://github.com/Grzegorz2121/Kappa/raw/master/com.grzegorz.kappa.zip",
   "enabled": true,
   "fileSystem": false,
@@ -38,5 +38,5 @@
   "titansOnly": false,
   "unitList": false,
   "url": "https://github.com/Grzegorz2121/Kappa/archive/master.zip",
-  "version": "1"
+  "version": "0.0314"
 }
