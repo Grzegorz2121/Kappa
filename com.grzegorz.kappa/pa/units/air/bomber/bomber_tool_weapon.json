@@ -1,7 +1,7 @@
 {
-  "ammo_capacity": 1425,
+  "ammo_capacity": 5,
   "ammo_demand": 10,
-  "ammo_id": "/pa/units/land/nuke_launcher/nuke_launcher_ammo.json",
+  "ammo_id": "/pa/ammo/bomber_new/bomber_new_ammo.json",
   "ammo_per_shot": 5,
   "ammo_source": "energy",
   "auto_attack": true,
@@ -13,12 +13,12 @@
       "effect_spec": "/pa/units/air/missile_nuke/missile_nuke_implosion.pfx"
     }
   },
-  "firing_standard_deviation": 20,
+  "firing_standard_deviation": 100,
   "max_range": 10,
   "pitch_range": 180,
   "pitch_rate": 3600,
-  "rate_of_fire": 20,
-  "spread_fire": false,
+  "rate_of_fire": 3,
+  "spread_fire": true,
   "target_layers": [
     "WL_LandHorizontal",
     "WL_WaterSurface",
