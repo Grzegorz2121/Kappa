@@ -140,7 +140,7 @@
       "radius": 2.0
     }
   ],
-  "max_health": 1500,
+  "max_health": 60,
   "mesh_bounds": [
     12,
     14.5,
@@ -159,10 +159,11 @@
     "brake": 7,
     "group_preference": "front",
     "move_speed": 1000,
-    "turn_accel": 315,
+    "turn_accel": 115,
     "turn_speed": 360,
     "type": "amphibious"
   },
+  "passive_health_regen": -3,
   "physics": {
     "radius": 6
   },
